@@ -6,7 +6,7 @@ import pytz
 import pandas as pd
 
 # Initialize the OpenAI client
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='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')
 
 # Initialize MongoDB client
 mongo_client = MongoClient('mongodb+srv://sachinparmar0246:2nGATJVDEwDZzaA8@cluster0.c25rmsz.mongodb.net/')
